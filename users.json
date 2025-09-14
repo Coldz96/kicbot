@@ -1,0 +1,40 @@
+{
+  "naez96": {
+    "access_token": "YJEYYZZIZTMTYTRJYS0ZYWM5LTKXNTKTNDA4OTHKMTRKMTFM",
+    "refresh_token": "YZC2ZJU2NZUTNDK4YI01ODQ2LTHIZJITN2IXMZK5ZWI3YJNK",
+    "scope": "user:read channel:read channel:write chat:write streamkey:read events:subscribe moderation:ban",
+    "token_type": "Bearer",
+    "expires_in": 7200,
+    "obtained_at": 1757891852,
+    "expires_at": 1757899052,
+    "username": "naez96",
+    "channel_slug": "naez96",
+    "channel": {
+      "data": [
+        {
+          "broadcaster_user_id": 5288227,
+          "slug": "naez96",
+          "channel_description": "",
+          "banner_picture": "",
+          "stream": {
+            "url": "rtmps://fa723fc1b171.global-contribute.live-video.net",
+            "key": "sk_us-west-2_c8sISFbuGeda_zzCXLYVR3yAUZ9lfQUx1ZuHfZMigSo",
+            "is_live": true,
+            "is_mature": true,
+            "language": "fr",
+            "start_time": "2025-09-14T20:50:50Z",
+            "viewer_count": 6,
+            "thumbnail": "https://images.kick.com/video_thumbnails/XOlC1vOvhfVL/f0gJj7Se3G7p/480.webp"
+          },
+          "stream_title": "test",
+          "category": {
+            "id": 6528,
+            "name": "Tekken 3",
+            "thumbnail": "https://files.kick.com/images/subcategories/6528/banner/89e36510-15d9-4b1f-a335-971fa6c3877b"
+          }
+        }
+      ],
+      "message": "OK"
+    }
+  }
+}

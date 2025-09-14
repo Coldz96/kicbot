@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Callback - Kick OAuth Service</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <div class="container">
+            <h1>Callback OAuth</h1>
+            <p id="message">Chargement du résultat...</p>
+            <script>
+                // Page statique : le serveur injecte pas de template engine configuré.
+                // On peut afficher un message generic; pour un vrai moteur utiliser ejs/pug.
+                document.getElementById('message').textContent = 'Vérifiez la console serveur pour le statut.';
+            </script>
+        <a href="/">Retour à l'accueil</a>
+    </div>
+</body>
+</html>
